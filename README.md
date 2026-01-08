@@ -7,3 +7,5 @@
 ### Apache Kafka® is an event streaming platform. What does that mean?
 
 ### How does Kafka work in a nutshell?
+
+### Main Concepts and Terminology
