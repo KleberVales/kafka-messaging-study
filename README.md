@@ -9,3 +9,5 @@
 ### How does Kafka work in a nutshell?
 
 ### Main Concepts and Terminology
+
+### Kafka APIs
