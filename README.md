@@ -5,3 +5,5 @@
 ### What can I use event streaming for?
 
 ### Apache Kafka® is an event streaming platform. What does that mean?
+
+### How does Kafka work in a nutshell?
