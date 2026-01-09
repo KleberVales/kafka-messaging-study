@@ -21,3 +21,5 @@
 ### Step 4: Write some events into the topic
 
 ### Step 5: Read the events
+
+### Step 6: Import/export your data as streams of events with Kafka Connect
