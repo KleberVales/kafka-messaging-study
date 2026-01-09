@@ -23,3 +23,5 @@
 ### Step 5: Read the events
 
 ### Step 6: Import/export your data as streams of events with Kafka Connect
+
+### Step 7: Process your events with Kafka Streams
