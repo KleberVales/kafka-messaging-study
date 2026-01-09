@@ -13,3 +13,5 @@
 ### Kafka APIs
 
 ### Where to go from here
+
+### Step 2: Start the Kafka environment
