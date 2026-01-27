@@ -1,29 +1,42 @@
-# kafka-messaging-study
+- Kafka and event‑driven application fundamentals
+  – topics
+  - partitions
+  - producers
+  - consumers
+  - consumer groups
+  - basic event‑stream design.
 
-### What is event streaming?
+- Producer and consumer development
+   - building robust clients
+   - handling serialization
+   - delivery guarantees
+   - fine tuning latency/throughput.
 
-### What can I use event streaming for?
+- Schema management and integration
+   - using Schema Registry
+   - managing schema evolution
+   - integrating with external systems via Kafka Connect.
 
-### Apache Kafka® is an event streaming platform. What does that mean?
+- Stream processing with Kafka Streams
+   - building and deploying secure
+   - fault-tolerant applications for real-time filtering
+   - transformation
+   - enrichment
+   - aggregation
+   - joins
+   - windowed operations.
 
-### How does Kafka work in a nutshell?
+- Flink SQL on Confluent Cloud
+   - building real-time stream processing applications with SQL
+   - including filtering
+   - transforming
+   - aggregating
+   - joining
+   - windowed operations on streaming data. 
 
-### Main Concepts and Terminology
-
-### Kafka APIs
-
-### Where to go from here
-
-### Step 2: Start the Kafka environment
-
-### Step 3: Create a topic to store your events
-
-### Step 4: Write some events into the topic
-
-### Step 5: Read the events
-
-### Step 6: Import/export your data as streams of events with Kafka Connect
-
-### Step 7: Process your events with Kafka Streams
-
-### Step 8: Terminate the Kafka environment
+- Application observability and testing
+   - monitoring from a developer perspective and validating performance
+   - resiliency
+   - correctness
+ 
+     
