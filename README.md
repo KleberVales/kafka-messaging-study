@@ -1,3 +1,5 @@
+- Introduction to Kafka
+  
 - Kafka and event‑driven application fundamentals
   - topics
   - partitions
