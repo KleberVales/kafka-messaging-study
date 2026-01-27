@@ -1,4 +1,5 @@
 - Kafka and event‑driven application fundamentals
+  
   – topics
   - partitions
   - producers
