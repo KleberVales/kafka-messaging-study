@@ -1,9 +1,9 @@
-## Introduction to Kafka
+## Kafka
 
 | Nº | Pages |
 |----|--------|
 | 01 | [Introduction to Kafka](https://github.com/KleberVales/kafka-messaging-study/wiki/01-Introduction-to-Kafka) |
-| 01 | [Kafka and event‑driven application fundamentals](https://github.com/KleberVales/kafka-messaging-study/wiki/02-Kafka-and-event%E2%80%91driven-application-fundamentals) |
+| 02 | [Kafka and event‑driven application fundamentals](https://github.com/KleberVales/kafka-messaging-study/wiki/02-Kafka-and-event%E2%80%91driven-application-fundamentals) |
   
 - Producer and consumer development
    - building robust clients
