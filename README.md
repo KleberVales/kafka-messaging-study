@@ -7,15 +7,9 @@
 | 03 | [Producer and consumer development](https://github.com/KleberVales/kafka-messaging-study/wiki/03-Producer-and-consumer-development) |
 | 04 | [Schema management and integration](https://github.com/KleberVales/kafka-messaging-study/wiki/04-Schema-management-and-integration) |
 | 05 | [Stream processing with Kafka Streams](https://github.com/KleberVales/kafka-messaging-study/wiki/05-Stream-processing-with-Kafka-Streams) |
+| 06 | [Flink SQL on Confluent Cloud](https://github.com/KleberVales/kafka-messaging-study/wiki/06-Flink-SQL-on-Confluent-Cloud) |
   
 
-- Flink SQL on Confluent Cloud
-   - building real-time stream processing applications with SQL
-   - including filtering
-   - transforming
-   - aggregating
-   - joining
-   - windowed operations on streaming data. 
 
 - Application observability and testing
    - monitoring from a developer perspective and validating performance
