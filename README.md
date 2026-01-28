@@ -12,9 +12,4 @@
   
 
 
-- Application observability and testing
-   - monitoring from a developer perspective and validating performance
-   - resiliency
-   - correctness
- 
      
