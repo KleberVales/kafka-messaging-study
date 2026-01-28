@@ -4,6 +4,7 @@
 |----|--------|
 | 01 | [Introduction to Kafka](https://github.com/KleberVales/kafka-messaging-study/wiki/01-Introduction-to-Kafka) |
 | 02 | [Kafka and event‑driven application fundamentals](https://github.com/KleberVales/kafka-messaging-study/wiki/02-Kafka-and-event%E2%80%91driven-application-fundamentals) |
+| 03 | [Kafka and event‑driven application fundamentals](https://github.com/KleberVales/kafka-messaging-study/wiki/03-Producer-and-consumer-development) |
   
 - Producer and consumer development
    - building robust clients
