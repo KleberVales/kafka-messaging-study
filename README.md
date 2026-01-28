@@ -8,6 +8,7 @@
 | 04 | [Schema management and integration](https://github.com/KleberVales/kafka-messaging-study/wiki/04-Schema-management-and-integration) |
 | 05 | [Stream processing with Kafka Streams](https://github.com/KleberVales/kafka-messaging-study/wiki/05-Stream-processing-with-Kafka-Streams) |
 | 06 | [Flink SQL on Confluent Cloud](https://github.com/KleberVales/kafka-messaging-study/wiki/06-Flink-SQL-on-Confluent-Cloud) |
+| 07 | [Application observability and testing](https://github.com/KleberVales/kafka-messaging-study/wiki/07-Application-observability-and-testing) |
   
 
 
