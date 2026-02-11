@@ -25,7 +25,20 @@
 
 ### [04 Schema management and integration](https://github.com/KleberVales/kafka-messaging-study/wiki/04-Schema-management-and-integration) 
 
+- What is Schema management and integration?
+- Using Schema Registry
+- Managing Schema Evolution
+- Integrating with external systems via Kafka Connect
+
 ### [05 Stream processing with Kafka Streams](https://github.com/KleberVales/kafka-messaging-study/wiki/05-Stream-processing-with-Kafka-Streams) 
+
+- Building and deploying secure
+- Fault-tolerant Applications for Real-time Filtering
+- Transformation
+- Enrichment
+- Aggregation
+- Joins
+- Windowed Operations
 
 ### [06 Flink SQL on Confluent Cloud](https://github.com/KleberVales/kafka-messaging-study/wiki/06-Flink-SQL-on-Confluent-Cloud) 
 
