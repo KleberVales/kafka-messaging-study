@@ -10,7 +10,15 @@
 
 ### [02 Kafka and event‑driven application fundamentals](https://github.com/KleberVales/kafka-messaging-study/wiki/02-Kafka-and-event%E2%80%91driven-application-fundamentals) 
 
+- topics
+- Partitions in Kafka
+- Producers in Kafka
+- Consumers in Kafka
+- Basic Event‑Stream Design
+
 ### [03 Producer and consumer development](https://github.com/KleberVales/kafka-messaging-study/wiki/03-Producer-and-consumer-development) 
+
+- building robust clients
 
 ### [04 Schema management and integration](https://github.com/KleberVales/kafka-messaging-study/wiki/04-Schema-management-and-integration) 
 
