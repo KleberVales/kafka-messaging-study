@@ -50,6 +50,8 @@
 - Windowed operations on streaming data
 
 ### [07 Application observability and testing](https://github.com/KleberVales/kafka-messaging-study/wiki/07-Application-observability-and-testing) 
+
+- Monitoring from a Developer Perspective and Validating Performance
   
 
 
