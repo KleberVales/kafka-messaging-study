@@ -2,6 +2,12 @@
 
 ### [Introduction to Kafka](https://github.com/KleberVales/kafka-messaging-study/wiki/01-Introduction-to-Kafka) 
 
+- Definition
+- Asynchronous messaging
+- Events
+- Producer → Broker
+- Producer → Consumer
+
 ### [Kafka and event‑driven application fundamentals](https://github.com/KleberVales/kafka-messaging-study/wiki/02-Kafka-and-event%E2%80%91driven-application-fundamentals) 
 
 ### [Producer and consumer development](https://github.com/KleberVales/kafka-messaging-study/wiki/03-Producer-and-consumer-development) 
