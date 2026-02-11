@@ -19,6 +19,9 @@
 ### [03 Producer and consumer development](https://github.com/KleberVales/kafka-messaging-study/wiki/03-Producer-and-consumer-development) 
 
 - building robust clients
+- Handling Serialization
+- Delivery Guarantees
+- Fine Tuning Latency/Throughput
 
 ### [04 Schema management and integration](https://github.com/KleberVales/kafka-messaging-study/wiki/04-Schema-management-and-integration) 
 
