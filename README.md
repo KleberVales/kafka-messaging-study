@@ -6,7 +6,7 @@
 - Asynchronous messaging
 - Events
 - Producer → Broker
-- Producer → Consumer
+- Broker → Consumer
 
 ### [02 Kafka and event‑driven application fundamentals](https://github.com/KleberVales/kafka-messaging-study/wiki/02-Kafka-and-event%E2%80%91driven-application-fundamentals) 
 
