@@ -42,6 +42,13 @@
 
 ### [06 Flink SQL on Confluent Cloud](https://github.com/KleberVales/kafka-messaging-study/wiki/06-Flink-SQL-on-Confluent-Cloud) 
 
+- Building real-time stream processing applications with SQL
+- Including Filtering
+- Transforming
+- Aggregating
+- Joining
+- Windowed operations on streaming data
+
 ### [07 Application observability and testing](https://github.com/KleberVales/kafka-messaging-study/wiki/07-Application-observability-and-testing) 
   
 
