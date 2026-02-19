@@ -5,8 +5,6 @@
 - Definition
 - Asynchronous messaging
 - Events
-- Producer → Broker
-- Broker → Consumer
 
 ### [02 Event‑driven](https://github.com/KleberVales/kafka-messaging-study/wiki/02-Kafka-and-event%E2%80%91driven-application-fundamentals) 
 
