@@ -20,7 +20,7 @@
 ### 3.1 building robust clients
 ### 3.2 Handling Serialization
 ### 3.3 Delivery Guarantees
-- Fine Tuning Latency/Throughput
+### 3.4 Fine Tuning Latency/Throughput
 
 ### [04 Schema management and integration](https://github.com/KleberVales/kafka-messaging-study/wiki/04-Schema-management-and-integration) 
 
