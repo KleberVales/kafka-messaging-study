@@ -34,7 +34,7 @@
 ### 5.1 Building and deploying secure
 ### 5.2 Fault-tolerant Applications for Real-time Filtering
 ### 5.3 Transformation
-- Enrichment
+### 5.4 Enrichment
 - Aggregation
 - Joins
 - Windowed Operations
