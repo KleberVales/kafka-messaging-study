@@ -1,6 +1,6 @@
 # Kafka
 
-### [01 Introduction to Kafka](https://github.com/KleberVales/kafka-messaging-study/wiki/01-Introduction-to-Kafka) 
+## 1. Introduction to Kafka
 
 - Definition
 - Asynchronous messaging
