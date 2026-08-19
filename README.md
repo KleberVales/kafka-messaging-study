@@ -33,7 +33,7 @@
 
 ### 5.1 Building and deploying secure
 ### 5.2 Fault-tolerant Applications for Real-time Filtering
-- Transformation
+### 5.3 Transformation
 - Enrichment
 - Aggregation
 - Joins
