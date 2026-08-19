@@ -41,7 +41,7 @@
 
 ## 6. Flink SQL on Confluent Cloud
 
-- Building real-time stream processing applications with SQL
+### 6.1 Building real-time stream processing applications with SQL
 - Including Filtering
 - Transforming
 - Aggregating
