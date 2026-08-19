@@ -29,7 +29,7 @@
 ### 4.3 Managing Schema Evolution
 ### 4.4 Integrating with external systems via Kafka Connect
 
-### [05 Stream processing with Kafka Streams](https://github.com/KleberVales/kafka-messaging-study/wiki/05-Stream-processing-with-Kafka-Streams) 
+## 5. Stream processing with Kafka Streams
 
 - Building and deploying secure
 - Fault-tolerant Applications for Real-time Filtering
