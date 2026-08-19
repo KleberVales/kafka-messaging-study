@@ -50,7 +50,7 @@
 
 ## 7. Application observability and testing
 
-- Monitoring from a Developer Perspective and Validating Performance
+### 7.1 Monitoring from a Developer Perspective and Validating Performance
   
 
 
