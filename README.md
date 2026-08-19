@@ -31,7 +31,7 @@
 
 ## 5. Stream processing with Kafka Streams
 
-- Building and deploying secure
+### 5.1 Building and deploying secure
 - Fault-tolerant Applications for Real-time Filtering
 - Transformation
 - Enrichment
