@@ -2,7 +2,7 @@
 
 ## 1. Introduction to Kafka
 
-- Definition
+### 1.1 Definition
 - Asynchronous messaging
 - Events
 - Broker
