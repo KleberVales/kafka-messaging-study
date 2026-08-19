@@ -4,7 +4,7 @@
 
 ### 1.1 Definition
 ### 1.2 Asynchronous messaging
-- Events
+### 1.3 Events
 - Broker
 
 ### [02 Event‑driven-architecture](https://github.com/KleberVales/kafka-messaging-study/wiki/02-Event%E2%80%91driven%E2%80%90architecture) 
