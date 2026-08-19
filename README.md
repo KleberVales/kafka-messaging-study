@@ -39,7 +39,7 @@
 ### 5.6 Joins
 ### 5.7 Windowed Operations
 
-### [06 Flink SQL on Confluent Cloud](https://github.com/KleberVales/kafka-messaging-study/wiki/06-Flink-SQL-on-Confluent-Cloud) 
+## 6. Flink SQL on Confluent Cloud
 
 - Building real-time stream processing applications with SQL
 - Including Filtering
