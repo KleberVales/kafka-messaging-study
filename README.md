@@ -35,7 +35,7 @@
 ### 5.2 Fault-tolerant Applications for Real-time Filtering
 ### 5.3 Transformation
 ### 5.4 Enrichment
-- Aggregation
+### 5.5 Aggregation
 - Joins
 - Windowed Operations
 
