@@ -22,7 +22,7 @@
 ### 3.3 Delivery Guarantees
 ### 3.4 Fine Tuning Latency/Throughput
 
-### [04 Schema management and integration](https://github.com/KleberVales/kafka-messaging-study/wiki/04-Schema-management-and-integration) 
+## 4. Schema management and integration
 
 - What is Schema management and integration?
 - Using Schema Registry
