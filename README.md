@@ -24,7 +24,7 @@
 
 ## 4. Schema management and integration
 
-- What is Schema management and integration?
+### 4.1 What is Schema management and integration?
 - Using Schema Registry
 - Managing Schema Evolution
 - Integrating with external systems via Kafka Connect
