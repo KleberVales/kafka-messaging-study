@@ -7,7 +7,7 @@
 ### 1.3 Events
 ### 1.4 Broker
 
-### [02 Event‑driven-architecture](https://github.com/KleberVales/kafka-messaging-study/wiki/02-Event%E2%80%91driven%E2%80%90architecture) 
+##  2. Event‑driven-architecture
 
 - topics
 - Partitions in Kafka
