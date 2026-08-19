@@ -36,7 +36,7 @@
 ### 5.3 Transformation
 ### 5.4 Enrichment
 ### 5.5 Aggregation
-- Joins
+### 5.6 Joins
 - Windowed Operations
 
 ### [06 Flink SQL on Confluent Cloud](https://github.com/KleberVales/kafka-messaging-study/wiki/06-Flink-SQL-on-Confluent-Cloud) 
