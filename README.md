@@ -26,7 +26,7 @@
 
 ### 4.1 What is Schema management and integration?
 ### 4.2 Using Schema Registry
-- Managing Schema Evolution
+### 4.3 Managing Schema Evolution
 - Integrating with external systems via Kafka Connect
 
 ### [05 Stream processing with Kafka Streams](https://github.com/KleberVales/kafka-messaging-study/wiki/05-Stream-processing-with-Kafka-Streams) 
