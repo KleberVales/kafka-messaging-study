@@ -15,7 +15,7 @@
 ### 2.4 Consumers in Kafka
 ### 2.5 Basic Event‑Stream Design
 
-### [03 Producer and consumer development](https://github.com/KleberVales/kafka-messaging-study/wiki/03-Producer-and-consumer-development) 
+## 3. Producer and consumer development
 
 - building robust clients
 - Handling Serialization
