@@ -32,7 +32,7 @@
 ## 5. Stream processing with Kafka Streams
 
 ### 5.1 Building and deploying secure
-- Fault-tolerant Applications for Real-time Filtering
+### 5.2 Fault-tolerant Applications for Real-time Filtering
 - Transformation
 - Enrichment
 - Aggregation
