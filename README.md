@@ -44,7 +44,7 @@
 ### 6.1 Building real-time stream processing applications with SQL
 ### 6.2 Including Filtering
 ### 6.3 Transforming
-- Aggregating
+### 6.4 Aggregating
 - Joining
 - Windowed operations on streaming data
 
