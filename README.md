@@ -17,7 +17,7 @@
 
 ## 3. Producer and consumer development
 
-- building robust clients
+### 3.1 building robust clients
 - Handling Serialization
 - Delivery Guarantees
 - Fine Tuning Latency/Throughput
