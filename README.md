@@ -46,7 +46,7 @@
 ### 6.3 Transforming
 ### 6.4 Aggregating
 ### 6.5 Joining
-- Windowed operations on streaming data
+### 6.6 Windowed operations on streaming data
 
 ### [07 Application observability and testing](https://github.com/KleberVales/kafka-messaging-study/wiki/07-Application-observability-and-testing) 
 
