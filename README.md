@@ -11,7 +11,7 @@
 
 ### 2.1 topics
 ### 2.2 Partitions in Kafka
-- Producers in Kafka
+### 2.3 Producers in Kafka
 - Consumers in Kafka
 - Basic Event‑Stream Design
 
