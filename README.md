@@ -12,7 +12,7 @@
 ### 2.1 topics
 ### 2.2 Partitions in Kafka
 ### 2.3 Producers in Kafka
-- Consumers in Kafka
+### 2.4 Consumers in Kafka
 - Basic Event‑Stream Design
 
 ### [03 Producer and consumer development](https://github.com/KleberVales/kafka-messaging-study/wiki/03-Producer-and-consumer-development) 
