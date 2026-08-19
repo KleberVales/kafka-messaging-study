@@ -10,7 +10,7 @@
 ##  2. Event‑driven-architecture
 
 ### 2.1 topics
-- Partitions in Kafka
+### 2.2 Partitions in Kafka
 - Producers in Kafka
 - Consumers in Kafka
 - Basic Event‑Stream Design
