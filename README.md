@@ -58,3 +58,5 @@
 
 Software Engineer & AI Agents
 
+Cloud | Microservices | DevOps | Generative AI | Agile
+
