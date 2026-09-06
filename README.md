@@ -51,7 +51,8 @@
 ## 7. Application observability and testing
 
 ### 7.1 Monitoring from a Developer Perspective and Validating Performance
-  
 
+---
 
-     
+**Kleber Vales**
+
